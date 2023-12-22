@@ -91,7 +91,7 @@ int main()
     }
 
     /////////////////////////////////////////////////////////////////
-    cout << "\n\n\";  // printing some empty lines
+    cout << "\n\n";  // printing some empty lines
     cout << "let's get to the evaluation\n\n";
     if (points == 5)
     {
